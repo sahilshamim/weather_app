@@ -8,7 +8,7 @@ Weather App is a responsive platform that provides real-time weather updates bas
 -[Builtwith](#Builtwith)
 -[Live_demo](#Live_demo)
 -[Contact](#Contact)
--
+
 
 ## Features
 
