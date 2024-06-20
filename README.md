@@ -2,13 +2,13 @@
 
 Weather App is a responsive platform that provides real-time weather updates based on user input. This application allows users to get current weather information, including temperature, weather description, humidity, and wind speed, ensuring they have the latest weather data for any location.
 
-## Table of content
--[Features](#Features)
--[Usage](#Usage)
--[Builtwith](#Builtwith)
--[Live_demo](#Live_demo)
--[Contact](#Contact)
+## Table of Contents
 
+- [Features](#features)
+- [Usage](#usage)
+- [Built With](#built-with)
+- [Live Demo](#live-demo)
+- [Contact](#contact)
 
 ## Features
 
@@ -18,20 +18,24 @@ Weather App is a responsive platform that provides real-time weather updates bas
 - Dynamic weather icons that match current weather conditions.
 - User-friendly and responsive design.
 
-##Usage
--Enter the name of a city in the search box.
--Click the search button or press enter.
--View the weather information for the entered city.
+## Usage
 
-##Built With
--HTML
--CSS
--JavaScript
--OpenWeatherMap API
+1. Enter the name of a city in the search box.
+2. Click the search button or press enter.
+3. View the weather information for the entered city.
 
-##live_demo
-https://sahilshamim.github.io/weather_app/
+## Built With
 
-##Contact 
+- HTML
+- CSS
+- JavaScript
+- [OpenWeatherMap API](https://openweathermap.org/api)
+
+## Live Demo
+
+You can access the live demo: https://sahilshamim.github.io/weather_app/
+
+## Contact
+
 For any inquiries, please contact sahil.shamim27@gmail.com 
 https://www.linkedin.com/in/sahil-shamim/
