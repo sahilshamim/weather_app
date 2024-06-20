@@ -37,5 +37,9 @@ You can access the live demo: https://sahilshamim.github.io/weather_app/
 
 ## Contact
 
-For any inquiries, please contact sahil.shamim27@gmail.com 
-https://www.linkedin.com/in/sahil-shamim/
+## Contact
+
+- **Email**: [sahil.shamim27@gmail.com](mailto:sahil.shamim27@gmail.com)
+- **LinkedIn**: [Sahil Shamim](https://www.linkedin.com/in/sahil-shamim/)
+
+Feel free to reach out if you have any questions or opportunities you'd like to discuss.
